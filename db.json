@@ -36,5 +36,29 @@
       "p_availability":1,
       "p_details":"from Nagpur",
       "p_category":"Premium"
+   },
+      {
+      "p_name":"Orange",
+      "p_id":4,
+      "p_cost":25,
+      "p_availability":1,
+      "p_details":"from Nagpur",
+      "p_category":"Premium"
+   },
+   {
+      "p_name":"Orange",
+      "p_id":4,
+      "p_cost":25,
+      "p_availability":1,
+      "p_details":"from Nagpur",
+      "p_category":"Premium"
+   },
+      {
+      "p_name":"Orange",
+      "p_id":4,
+      "p_cost":25,
+      "p_availability":1,
+      "p_details":"from Nagpur",
+      "p_category":"Premium"
    }
 ]
